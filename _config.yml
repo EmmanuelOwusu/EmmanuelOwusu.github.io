@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EMMANUEL OWUSU AHENKAN / PERSONAL WEBSITE"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "EMMANUEL OWUSU AHENKAN"
-description              : &description "I am a Mathematician, Data Scientist and Machine Learning Engineer"
-url                      : https://EmmanuelOwusu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EmmanuelOwusu/EmmanuelOwusu.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -26,10 +26,10 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:              
+  facebook:
     appid                :
-    num_posts            :  5 (default)
-    colorscheme          :  "light" (default), "dark"
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Emma_Ahenkan
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
