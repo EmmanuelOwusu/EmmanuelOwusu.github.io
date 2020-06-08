@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Emmanuel Owusu Ahenkan"
   avatar           : "profile.png"
-  bio              : "II am a Mathematician, Data Scientist and Machine Learning Engineer"
+  bio              : "I am a Mathematician, Data Scientist and Machine Learning Engineer"
   location         : "LocationGhana-Accra"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : eahenkan@aimsammi.org
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : Emmanuel Owusu Ahenkan
   foursquare       :
   github           : "academicpages"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Emma_Ahenkan"
   vine             :
   weibo            :
   xing             :
