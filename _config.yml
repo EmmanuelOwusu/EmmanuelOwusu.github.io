@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emmanuel Owusu Ahenkan"
-  avatar           : "/home/aims/Downloads/emma1.jpg"
+  avatar           : "emma1.jpg"
   bio              : "I am a Mathematician, Data Scientist and Machine Learning Engineer"
   location         : "LocationGhana-Accra"
   employer         :
