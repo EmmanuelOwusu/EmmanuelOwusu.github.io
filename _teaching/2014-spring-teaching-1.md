@@ -2,14 +2,13 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2015-September-teaching-1
+venue: "Kwame Nkrumah University of Science and Technology, Department of Mathematics"
+date: 2015-09-01
+location: "Kumasi, Ghana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Teaching Assistnace at Kwame Nkrumah University of Science and Technology, Department of Mathematics.
 Heading 1
 ======
 
