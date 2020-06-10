@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.C in Mathematics, Kwame Nkrumah University of Science and Technology, 2015
+* M.S.C in Mathematical Sciences,African Institute for Mathematical Sciences, 2018
+* M.S   in Machine Intelligence, African Master's of Machine Intelligence, 2020 (expected)
 
 Work experience
 ======
