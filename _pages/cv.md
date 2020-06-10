@@ -29,12 +29,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* I also have good communication skills.
+* Great programing skills
+  * Python
+  * Matlab
+  * R 
+* I am very creative and also helps in developing other people skills.
+* I am a Motivator and a Great Leader.
 
 Publications
 ======
