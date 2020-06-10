@@ -29,7 +29,7 @@ Work experience
   
 Skills
 ======
-* I also have good communication skills.
+* I  have good communication and time management skills .
 * Great programing skills
   * Python
   * Matlab
