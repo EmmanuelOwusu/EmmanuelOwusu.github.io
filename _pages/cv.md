@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S.C in Mathematics, Kwame Nkrumah University of Science and Technology, 2015
-* M.S.C in Mathematical Sciences,African Institute for Mathematical Sciences, 2018
-* M.S   in Machine Intelligence, African Master's of Machine Intelligence, 2020 (expected)
+* B.S.C. in Mathematics, Kwame Nkrumah University of Science and Technology, 2015
+* M.S.C. in Mathematical Sciences, African Institute for Mathematical Sciences (Kigali-Rwanda), 2018
+* M.S.    in Machine Intelligence, African Master's of Machine Intelligence, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2015- Augus 2017 : Teaching Assistant
+  * Kwame Nkrumah University of Science and Technology 
+  * Duties included: Teaching and solving questions with students for better understanding of mathematics.
+  * Supervisor: Dr Ackora-Prah Joseph
 
 * Fall 2015: Research Assistant
   * Github University
