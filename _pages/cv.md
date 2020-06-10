@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* September 2015- Augus 2017 : Teaching Assistant
+* September 2015 - Augus 2017 : Teaching Assistant
   * Kwame Nkrumah University of Science and Technology 
   * Duties included: Teaching and solving questions with students for better understanding of mathematics.
   * Supervisor: Dr Ackora-Prah Joseph
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014: Secretary
+  * Profcon Limited (Construction Firm)
+  * Duties included: Taking records during meetings and attending to customers.
+  * Supervisor: Obarima Otu Acheampong
   
 Skills
 ======
