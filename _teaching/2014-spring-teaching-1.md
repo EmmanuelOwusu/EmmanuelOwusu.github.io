@@ -19,9 +19,11 @@ mathematics.
 
 Courses
 ======
-1. Optimation
-2. Numerical Modelling
+1. Optimation Research 
+2. Mathematical Modelling
 3. Engineering Mathematics
+4. Probability and Statistics
 
 Heading 3
 ======
+
