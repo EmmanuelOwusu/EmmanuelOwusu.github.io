@@ -8,7 +8,8 @@ date: 2014-06-01
 location: "Kumasi, Ghana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a teacher at Good Sherperd International School (Private School). 
+
 
 Heading 1
 ======
