@@ -12,20 +12,20 @@ I was a teacher at Good Sherperd International School (Private School).
 
 Activities
 ======
-1. Teaching and solving questions with students.
+* Teaching and solving questions with students.
 
 
-2. Motivating and encouraging students to pursue Mathematics and General Science.
+* Motivating and encouraging students to pursue Mathematics and General Science.
 
 Courses
 ======
-1. Mathematics
-2. General Science
-  a. Biology
-  b. Physics
+* Mathematics
+* General Science
+    * Biology
+    * Physics
   c. Chemistry
-3. Religous and Moral Education
+* Religous and Moral Education
 
 Heading 
 ======
-I was one of the best Teaching Assistant during this period.
+I was loved by both collegue teachers and students for my great teaching skills and pernonality.
