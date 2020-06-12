@@ -24,7 +24,7 @@ Courses
 3. Engineering Mathematics
 4. Probability and Statistics
 
-Heading 3
+Heading 
 ======
 I was one of the best Teaching Assistant during this period.
 
