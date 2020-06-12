@@ -23,7 +23,7 @@ Courses
 * General Science
     * Biology
     * Physics
-  c. Chemistry
+    * Chemistry
 * Religous and Moral Education
 
 Heading 
