@@ -1,8 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Teaching Mathematics and Science<br/><img src='/images/500x300.png'>"
+title: "Portfolio One"
+excerpt: "Teaching Mathematics and Science <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+
+Teaching Mathematics and Science
+
 
 * I have a problem solving skill.
 * Great time management is one of the skills I possess.
