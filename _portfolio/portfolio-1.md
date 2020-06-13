@@ -4,4 +4,8 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* I have a problem solving skill.
+* Great time management is one of the skills I possess.
+* I also have good communication skills.
+* I am very creative and also helps in developing other people skills.
+* I am bold and very confident.
