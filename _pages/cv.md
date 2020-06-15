@@ -57,4 +57,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Ghana Health Services
+  * Volunteer for distributing vaccines for Children under six years.
+* Volunteer at Next Einstein Forum (NEF) 
+
+* Student Representative  at AMMI Ghana.
+
+* Judicial Committee Secretary at KNUST, Mathematics Department.
+
+* Student Representative Organiser at Opuku Ware School.
