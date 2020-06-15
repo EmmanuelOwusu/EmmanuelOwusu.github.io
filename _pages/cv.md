@@ -59,7 +59,9 @@ Service and leadership
 ======
 * Ghana Health Services
   * Volunteer for distributing vaccines for Children under six years.
-* Volunteer at Next Einstein Forum (NEF) 
+* Volunteer at Next Einstein Forum (NEF)
+
+  * Aided in the organization of the forum.
 
 * Student Representative  at AMMI Ghana.
 
