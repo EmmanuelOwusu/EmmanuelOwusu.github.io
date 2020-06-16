@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S.C. in Mathematics, Kwame Nkrumah University of Science and Technology, 2015
-* M.S.C. in Mathematical Sciences, African Institute for Mathematical Sciences (Kigali-Rwanda), 2018
-* M.S.    in Machine Intelligence, African Master's of Machine Intelligence, 2020 (expected)
+* B.S.C. in Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), 2015
+* M.S.C. in Mathematical Sciences, African Institute for Mathematical Sciences(AIMS),  (Kigali-Rwanda), 2018
+* M.S.    in Machine Intelligence, African Master's of Machine Intelligence (AMMI), 2020 (expected)
 
 Work experience
 ======
@@ -67,4 +67,4 @@ Service and leadership
 
 * Judicial Committee Secretary at KNUST, Mathematics Department.
 
-* Student Representative Organiser at Opuku Ware School.
+* Student Representative Organiser at Opuku Ware School (OWASS).
