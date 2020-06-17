@@ -62,9 +62,13 @@ Service and leadership
 * Volunteer at Next Einstein Forum (NEF)
 
   * Aided in the organization of the forum.
+  
+* Volunteered in clean up exercises both in Rwanda(Umuganda)  and Ghana.
 
 * Student Representative  at AMMI Ghana.
 
 * Judicial Committee Secretary at KNUST, Mathematics Department.
+
+* Financial Secretary for Ghana Methodist Students Union, at Opoku Ware School.
 
 * Student Representative Organiser at Opuku Ware School (OWASS).
