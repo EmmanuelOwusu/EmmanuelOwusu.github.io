@@ -28,4 +28,4 @@ Courses
 
 Heading 
 ======
-I was loved by both collegue teachers and students for my great teaching skills and pernonality.
+I was loved by both my collegue teachers and students for my great teaching skills and pernonality.
