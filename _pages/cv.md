@@ -61,7 +61,7 @@ Service and leadership
   * Volunteer for distributing vaccines for Children under six years.
 * Volunteer at Next Einstein Forum (NEF)
 
-  * Aided in the organization of the forum.
+  * Aided in the organization of the Next Einstein Forum.
   
 * Volunteered in clean up exercises both in Rwanda(Umuganda)  and Ghana.
 
