@@ -29,8 +29,8 @@ Work experience
   
 Skills
 ======
-* I  have good communication and time management skills .
-* Great programing skills
+* I  have good communication and time management skills . 
+* Great programing skills. I am higly skilled in Programming Languages like:
   * Python
   * Matlab
   * R 
