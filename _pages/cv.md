@@ -13,7 +13,7 @@ Education
 ======
 * B.S.C. in Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), 2015
 * M.S.C. in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS),  (Kigali-Rwanda), 2018
-* M.S.    in Machine Intelligence, African Master's of Machine Intelligence (AMMI), 2020 (expected)
+* M.S.    in Machine Intelligence, African Master's in Machine Intelligence (AMMI), 2020 (expected)
 
 Work experience
 ======
@@ -29,13 +29,14 @@ Work experience
   
 Skills
 ======
-* I  have good communication and time management skills . 
+* I  have good communication and time management skills. 
 * Great programing skills. I am higly skilled in Programming Languages like:
   * Python
   * Matlab
   * R 
 * I am very creative and also helps in developing other people skills.
 * I am a Motivator and a Great Leader.
+* I possess great problem solving skills.
 
 Publications
 ======
@@ -65,7 +66,7 @@ Service and leadership
   
 * Volunteered in clean up exercises both in Rwanda(Umuganda)  and Ghana.
 
-* Student Representative  at AMMI Ghana.
+* Student Representative  atAfrican Master's in Machine Intelligence (AMMI), Ghana.
 
 * Judicial Committee Secretary at KNUST, Mathematics Department.
 
