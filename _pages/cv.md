@@ -61,7 +61,7 @@ Service and leadership
 * Ghana Health Services
   * Volunteer for distributing vaccines for Children under six years.
   
-* Volunteer at International Conference on Machine Learning (ICML)  2020.
+* Volunteer at Thirty-seventh International Conference on Machine Learning (ICML 2020).
 
 
 * Volunteer at Next Einstein Forum (NEF)
