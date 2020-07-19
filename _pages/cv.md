@@ -68,7 +68,7 @@ Service and leadership
 
   * Aided in the organization of the Next Einstein Forum.
   
-* Volunteered in clean up exercises both in Rwanda(Umuganda)  and Ghana.
+* Volunteered in clean up exercises both in Rwanda (Umuganda)  and Ghana.
 
 * Student Representative  atAfrican Master's in Machine Intelligence (AMMI), Ghana.
 
