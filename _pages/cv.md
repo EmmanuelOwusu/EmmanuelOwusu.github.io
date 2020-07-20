@@ -59,6 +59,7 @@ Teaching
 Service and leadership
 ======
 * Ghana Health Services
+
   * Volunteer for distributing vaccines for Children under six years.
   
 * Volunteer at Thirty-seventh International Conference on Machine Learning (ICML 2020).
@@ -74,8 +75,7 @@ Service and leadership
 
 * Judicial Committee Secretary at KNUST, Mathematics Department.
 
-
-* Student Representative Organiser at Opuku Ware School (OWASS).
+* Student Representative Committe Organiser at Opuku Ware School (OWASS).
 
 * Financial Secretary for Ghana Methodist Students Union (GHAMSU), at Opoku Ware School (OWASS).
 
