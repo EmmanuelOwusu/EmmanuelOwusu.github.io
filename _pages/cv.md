@@ -63,7 +63,8 @@ Service and leadership
   * Volunteer for distributing vaccines for Children under six years.
   
 * Volunteer at Thirty-seventh International Conference on Machine Learning (ICML 2020).
-
+  
+  * Aided in organizing the paper review session.
 
 * Volunteer at Next Einstein Forum (NEF)
 
