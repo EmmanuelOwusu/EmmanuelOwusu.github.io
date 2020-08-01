@@ -72,7 +72,7 @@ Service and leadership
   
 * Volunteered in clean up exercises both in Rwanda (Umuganda)  and Ghana.
 
-* Student Representative  atAfrican Master's in Machine Intelligence (AMMI), Ghana.
+* Student Representative  at African Master's in Machine Intelligence (AMMI), Ghana.
 
 * Judicial Committee Secretary at KNUST, Mathematics Department.
 
