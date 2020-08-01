@@ -76,7 +76,7 @@ Service and leadership
 
 * Judicial Committee Secretary at KNUST, Mathematics Department.
 
-* Student Representative Committe Organiser at Opuku Ware School (OWASS).
+* Student Representative Committe (SRC) Organiser at Opuku Ware School (OWASS).
 
 * Financial Secretary for Ghana Methodist Students Union (GHAMSU), at Opoku Ware School (OWASS).
 
