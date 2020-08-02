@@ -24,7 +24,10 @@ Work experience
 
 * Fall 2014: Secretary
   * Profcon Limited (Construction Firm)
-  * Duties included: Taking records during meetings and attending to customers.
+  * Duties included: Taking records during meetings and 
+  
+                        Attending to customers.
+                        
   * Supervisor: Obarima Otu Acheampong
   
 Skills
