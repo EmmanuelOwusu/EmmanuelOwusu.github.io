@@ -62,7 +62,7 @@ Service and leadership
 ======
 * Natinal Service
 
-  
+  * Teaching assistant at Kwame Nkrumah University of Science and Technology.
 
 * Ghana Health Services
 
