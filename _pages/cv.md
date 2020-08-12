@@ -70,7 +70,7 @@ Service and leadership
   
 * Volunteer at Thirty-seventh International Conference on Machine Learning (ICML 2020).
   
-  * Aided in organizing the paper review session.
+  * Aided in organizing the paper review sessions.
 
 * Volunteer at Next Einstein Forum (NEF)
 
