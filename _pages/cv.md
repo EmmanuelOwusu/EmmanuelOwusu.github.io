@@ -60,7 +60,7 @@ Teaching
   
 Service and leadership
 ======
-* Nat Service
+* National Service
 
   * Teaching assistant at Kwame Nkrumah University of Science and Technology (KNUST).
 
