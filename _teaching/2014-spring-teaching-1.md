@@ -19,7 +19,7 @@ mathemati
 
 Courses
 ======
-1. Optimation Techniques
+1. Optimation Techniques / Operations 
 2. Mathematical Modelling
 3. Engineering Mathematics
 4. Probability and Statistics
