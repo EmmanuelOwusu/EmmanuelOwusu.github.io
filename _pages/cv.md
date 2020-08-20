@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * September 2015 - Augus 2017 : Teaching Assistant
-  * Kwame Nkrumah University of Science and Technology 
+  * Kwame Nkrumah University of Science and Technology (KNUST)
   * Duties included: Teaching and solving questions with students for better understanding of mathematics.
   * Supervisor: Dr Ackora-Prah Joseph
 
