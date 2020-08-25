@@ -84,5 +84,5 @@ Service and leadership
 
 * Student Representative Committe (SRC) Organiser at Opuku Ware School (OWASS).
 
-* Financial Secretary for Ghana Methodist Students Union (GHAMSU), at Opoku Ware School (OWASS).
+* Financial Secretary for Ghana Methodist Students Union, at Opoku Ware School (OWASS).
 
