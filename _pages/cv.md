@@ -35,7 +35,7 @@ Skills
 * Great programing skills. I am higly skilled in Programming Languages like:
   * Python
   * Matlab
-  * R Studio
+  * R 
 * I am very creative and also helps in developing other people skills.
 * I am a Motivator and a Great Leader.
 * I possess great problem solving skills.
