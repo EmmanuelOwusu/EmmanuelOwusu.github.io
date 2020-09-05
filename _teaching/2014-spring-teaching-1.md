@@ -13,7 +13,7 @@ Teaching Assistnace at Kwame Nkrumah University of Science and Technology, Depar
 Activities
 ======
 1. Teaching and solving questions with students for better understanding of
-mathemati
+Mathematics
 
 2. Motivating and encouraging students to better appreciate Mathematics.
 
