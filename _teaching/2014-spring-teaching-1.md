@@ -22,7 +22,7 @@ Courses
 1. Optimation Techniques / Operations Research
 2. Mathematical Modelling
 3. Engineering Mathematics
-4. Probability and Statistics
+4. Probability 
 5. Mathematical Analysis
 
 Heading 
