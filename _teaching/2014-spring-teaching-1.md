@@ -8,7 +8,7 @@ date: 2015-09-01
 location: "Kumasi, Ghana"
 ---
 
-Teaching Assistnace at Kwame Nkrumah University of Science and Technology, Department of Mathematics.
+Teaching Assistnace at Kwame Nkrumah University of Science and Technology (KNUST), Department of Mathematics.
 
 Activities
 ======
