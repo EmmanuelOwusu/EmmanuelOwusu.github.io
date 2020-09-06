@@ -17,6 +17,9 @@ Activities
 
 * Motivating and encouraging students to pursue Mathematics and General Science.
 
+
+* Instilling discipline in students to bring out the best in them.
+
 Courses
 ======
 * Mathematics
