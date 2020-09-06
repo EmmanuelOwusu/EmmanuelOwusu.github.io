@@ -15,7 +15,7 @@ Activities
 1. Teaching and solving questions with students for better understanding of
 Mathematics
 
-2. Motivating and encouraging students to better appreciate Mathematics and Scince.
+2. Motivating and encouraging students to better appreciate Mathematics.
 
 Courses
 ======
