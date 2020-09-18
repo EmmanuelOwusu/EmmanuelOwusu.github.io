@@ -24,7 +24,7 @@ Courses
 3. Engineering Mathematics
 4. Probability and Statistics
 5. Mathematical Analysis
-6. Pure 
+6. Pure Mathematic
 
 Heading 
 ======
