@@ -76,6 +76,8 @@ Service and leadership
 
   * Aided in the organization of the Next Einstein Forum.
   
+* Volunteer at the Thirty-fourth Conference on Neural Information Processing Systems 
+  
 * Volunteered in clean up exercises  in both Rwanda (Umuganda) and Ghana.
 
 * Student Representative  at African Master's in Machine Intelligence (AMMI), Ghana.
