@@ -76,7 +76,7 @@ Service and leadership
 
   * Aided in the organization of the Next Einstein Forum.
   
-* Volunteer at the Thirty-fourth Conference on Neural Information Processing Systems (Neurips)
+* Volunteer at the Thirty-fourth Conference on Neural Information Processing Systems (Neurips 2020)
   
 * Volunteered in clean up exercises  in both Rwanda (Umuganda) and Ghana.
 
