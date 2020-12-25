@@ -34,6 +34,7 @@ Skills
 * I  have great communication and time management skills. 
 * Great programing skills. I am higly skilled in Programming Languages like:
   * Python
+  * Pytorch
   * Matlab
   * R 
 * I am very creative and also helps in developing other people skills.
