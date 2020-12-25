@@ -32,7 +32,7 @@ Work experience
 Skills
 ======
 * I  have great communication and time management skills. 
-* Great programing skills. I am higly skilled in Programming Languages like:
+* Great programming skills. I am highly skilled in Programming Languages like:
   * Python
   * Pytorch
   * Matlab
