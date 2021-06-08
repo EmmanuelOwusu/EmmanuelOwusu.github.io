@@ -28,5 +28,5 @@ Courses
 
 Heading 
 ======
-I was one of the best Teaching Assistant during that period.
+I was one of the best Teaching Assistants during that period.
 
