@@ -20,7 +20,7 @@ Mathematics
 Courses
 ======
 1. Optimation Techniques / Operations Research
-2. Differential Mathematical Modelling
+2. Differential Equations Mathematical Modelling
 3. Engineering Mathematics
 4. Probability and Statistics
 5. Mathematical Analysis
