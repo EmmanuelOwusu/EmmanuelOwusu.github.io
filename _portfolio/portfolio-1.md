@@ -4,7 +4,7 @@ excerpt: "Teaching Mathematics and Science <br/><img src='/images/EMMA2.jpg'>"
 collection: portfolio
 ---
 
-Teaching Mathematics and Science
+ ## Teaching Mathematics and Science
 
 
 * I have a problem solving skill.
