@@ -12,3 +12,4 @@ Teaching Mathematics and Science
 * I also have good communication skills.
 * I am very creative and also helps in developing other people skills.
 * I am bold and very confident.
+* I have good leadership skills.
