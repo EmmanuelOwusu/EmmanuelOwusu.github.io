@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 
-
-* B.S.C. in Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), 2015
+---
+ <img src='/images/EMMA2.jpg' width='100'>" B.S.C. in Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), 2015
+---
 * M.S.C. in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS),  (Kigali-Rwanda), 2018
 * M.S.C  in Machine Intelligence, African Master's in Machine Intelligence (AMMI), 2021 
 
