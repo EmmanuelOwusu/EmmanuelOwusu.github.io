@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 
+
+I am a Mathematician, Data Scientist and Machine Learning Engineer
