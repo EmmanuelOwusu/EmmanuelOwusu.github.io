@@ -13,7 +13,7 @@ Education
 ======
 ---
 Inline-style: 
-![alt text](images/knust.png "Logo Title Text 1")B.S.C. in Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), 2015
+![alt text](https://github.com/EmmanuelOwusu/EmmanuelOwusu.github.io/blob/master/images/knust.png"Logo Title Text 1")B.S.C. in Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), 2015
 
 ---
 * M.S.C. in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS),  (Kigali-Rwanda), 2018
