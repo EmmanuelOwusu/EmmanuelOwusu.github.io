@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 ---
+Inline-style: 
 ![alt text](images/knust.png "Logo Title Text 1")B.S.C. in Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), 2015
 
 ---
