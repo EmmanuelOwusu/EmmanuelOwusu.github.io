@@ -16,4 +16,7 @@ I am a Mathematician, Data Scientist and Machine Learning Engineer
 ---
 Research Interests
 
+* Computer Vision
+* Deep Learning 
+
 ---
