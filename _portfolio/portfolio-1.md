@@ -1,5 +1,5 @@
 ---
-title: "Portfolio One"
+title: "Teaching Mathematics and Science"
 excerpt: "Teaching Mathematics and Science <br/><img src='/images/EMMA2.jpg' width='500'>"
 collection: portfolio
 ---
