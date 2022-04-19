@@ -4,7 +4,10 @@ excerpt: "Teaching Mathematics and Science <br/><img src='/images/EMMA2.jpg' wid
 collection: portfolio
 ---
 
+
 ---
+### Teaching 
+
 * Teaching Assistnace at Kwame Nkrumah University of Science and Technology (KNUST), Department of Mathematics.
 * Teacher at Good Sherperd International School (Private School)
  
