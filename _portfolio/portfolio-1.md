@@ -1,7 +1,13 @@
 ---
 title: "Teaching Mathematics and Science"
-excerpt: "Skills and Qualities <br/><img src='/images/EMMA2.jpg' width='500'>"
+excerpt: "Teaching Mathematics and Science <br/><img src='/images/EMMA2.jpg' width='500'>"
 collection: portfolio
+---
+
+---
+* Teaching Assistnace at Kwame Nkrumah University of Science and Technology (KNUST), Department of Mathematics.
+* Teacher at Good Sherperd International School (Private School)
+ 
 ---
 
 ---
