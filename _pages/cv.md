@@ -28,7 +28,7 @@ Work experience
   * Profcon Limited (Construction Firm)
   * Duties included: Taking records during meetings and 
   
-    Attending to customers
+  * Attending to customers
   * Supervisor: Obarima Otu Acheampong
   
 Skills
@@ -38,7 +38,7 @@ Skills
   * Python
   * Pytorch
   * Matlab
-  * R 
+  * R
 * I am very creative and also helps in developing other people skills.
 * I am a Motivator and a Great Leader.
 * I possess great problem solving skills.
