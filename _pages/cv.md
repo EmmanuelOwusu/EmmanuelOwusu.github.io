@@ -20,8 +20,8 @@ Education
 Work experience
 ======
 
- * Research Internship: Aug 2020 - Mar 2021
-Erasmus MC, Biomedical Imaging Group Rotterdam · 
+ * Aug 2020 - Mar 2021: Research Internship
+    * Research Intenship at Erasmus MC, Biomedical Imaging Group Rotterdam · 
 
 
 
