@@ -20,8 +20,11 @@ Education
 Work experience
 ======
 
- * Research InternshipResearch Internship : Aug 2020 - Mar 2021
-Erasmus MC, Biomedical Imaging Group Rotterdam · InternshipErasmus MC, Biomedical Imaging Group Rotterdam · Internship 
+ * Research Internship: Aug 2020 - Mar 2021
+Erasmus MC, Biomedical Imaging Group Rotterdam · 
+
+
+
 * September 2015 - Augus 2017 : Teaching Assistant
   * Kwame Nkrumah University of Science and Technology (KNUST)
   * Duties included: Teaching and solving questions with students for better understanding of mathematics.
