@@ -18,11 +18,11 @@ Education
 
 * M.S.C  in Machine Intelligence, African Master's in Machine Intelligence (AMMI), 2021 
 
-Work experience
+Work Experience
 ======
 
  * Aug 2020 - Mar 2021: Research Internship
-    * Research Intenship at Erasmus MC, Biomedical Imaging Group Rotterdam · 
+    * Research Intenship at Erasmus MC, Biomedical Imaging Group Rotterdam· 
 
 
 
