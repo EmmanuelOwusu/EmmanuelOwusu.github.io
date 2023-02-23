@@ -21,5 +21,10 @@ Research Interests
 
 * Computer Vision
 * Deep Learning 
+* Medical Image Analysis
+* Data Science
+* Mathematics
+* Self Supervision
+* Attention Mechanism
 
 ---
