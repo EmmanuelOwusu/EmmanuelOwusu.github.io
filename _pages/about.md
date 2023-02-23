@@ -20,6 +20,8 @@ He also doubles as an ML and AI engineer where he is involved in data gathering,
 Research Interests
 
 * Computer Vision
+    * Object Tracking
+    * Human Action Classification
 * Deep Learning 
 * Medical Image Analysis
 * Data Science
