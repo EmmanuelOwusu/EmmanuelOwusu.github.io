@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Currently working on projects to be published.
+Currently working on Projects to be Published.
