@@ -18,7 +18,7 @@ He is also the Director of Health of a Non-Governmental Organization (Obri Komfo
 
 
 ---
-# Research Interests
+### Research Interests
 
 * Computer Vision
     * Object Tracking
