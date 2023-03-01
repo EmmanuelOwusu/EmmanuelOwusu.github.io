@@ -26,8 +26,8 @@ He is also the Director of Health of a Non-Governmental Organization (Obri Komfo
 * Deep Learning 
 * Medical Image Analysis
 * Data Science
-* Mathematics (Applied Mathematics)
 * Self Supervision
 * Attention Mechanism
+* Mathematics (Applied Mathematics)
 
 ---
