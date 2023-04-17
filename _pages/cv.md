@@ -74,7 +74,7 @@ Service and leadership
 ======
 * National Service
 
-  * Teaching ssistant at Kwame Nkrumah University of Science and Technology (KNUST).
+  * Teaching assistant at Kwame Nkrumah University of Science and Technology (KNUST).
 
 * Ghana Health Services
 
