@@ -23,6 +23,7 @@ He is also the Director of Health of a Non-Governmental Organization (Obri Komfo
 * Computer Vision
     * Object Tracking
     * Human Action Classification
+* Machine Learning 
 * Deep Learning 
 * Medical Image Analysis
 * Data Science
