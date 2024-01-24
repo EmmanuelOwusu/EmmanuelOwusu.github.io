@@ -1,22 +1,16 @@
 ---
-title: "Talk on Linear Quadratic Regulators (LQR)"
+title: "Self-supervision via Triplet Loss in Medical Image Segmentation"
 collection: talks
 type: "talk"
 permalink: /talks/2020-01-23-talk-3
-venue: "Africa Master's of Machine Intelligence (AMMI)"
-date: 2020-01-23
+venue: "Academic City College"
+date: 2022-09-08
 location: "Accra, Ghana"
 ---
-
- This project is on Linear Quadratic Regulator (LQR) and was presented to Students and Tutors  at the African Masters in Machine Intelligence(AMMI GHANA).
-
-# Summary on Linear Quadratic Regulator (LQR).
-
-* An optimal control is a set of differential equations describing the
-paths of the control variables that minimize the cost function.
-
-* A Linear Quadratic Problem is a problem where the system dynamics
-are described by a set of linear differential equations and the cost is
-described by a quadratic function.
-
-* The goal of a Linear Quadratic Regulator (LQR) is to stabilize a system.
+The research proposes a self-supervised proxy task based on contrastive learning for
+medical image analysis. The network is pre-trained using a triplet loss to learn
+representative features in the data, followed by fine-tuning on the main segmentation
+task. The proposed method improves segmentation performance compared to the
+baseline U-Net method without self-supervision on white matter hyperintensities
+segmentation
+ 
