@@ -1,0 +1,22 @@
+---
+title: "Talk on Linear Quadratic Regulators (LQR)"
+collection: talks
+type: "talk"
+permalink: /talks/2020-01-23-talk-3
+venue: "Africa Master's of Machine Intelligence (AMMI)"
+date: 2020-01-23
+location: "Accra, Ghana"
+---
+
+ This project is on Linear Quadratic Regulator (LQR) and was presented to Students and Tutors  at the African Masters in Machine Intelligence(AMMI GHANA).
+
+# Summary on Linear Quadratic Regulator (LQR).
+
+* An optimal control is a set of differential equations describing the
+paths of the control variables that minimize the cost function.
+
+* A Linear Quadratic Problem is a problem where the system dynamics
+are described by a set of linear differential equations and the cost is
+described by a quadratic function.
+
+* The goal of a Linear Quadratic Regulator (LQR) is to stabilize a system.
