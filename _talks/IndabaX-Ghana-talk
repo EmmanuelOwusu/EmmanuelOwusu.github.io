@@ -5,7 +5,7 @@ type: "talk"
 permalink: /talks/2020-01-23-talk-3
 venue: "Academic City College"
 date: 2022-09-08
-location: "Accra, Ghana"
+location: "IndabaX Accra, Ghana"
 ---
 The research proposes a self-supervised proxy task based on contrastive learning for
 medical image analysis. The network is pre-trained using a triplet loss to learn
