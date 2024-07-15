@@ -29,5 +29,5 @@ Courses
 
 Heading 
 ======
-I was one of the best Teaching Assistants during this period at KNUST.
+I was one of the best teaching assistants during this period at KNUST.
 
