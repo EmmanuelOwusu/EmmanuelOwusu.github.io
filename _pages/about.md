@@ -19,7 +19,7 @@ He is also the Director of Health of a Non-Governmental Organization (Obri Komfo
 
 ---
 ### Research Interests
-*Mathematical Modeling of Infectious Diseases
+* Mathematical Modeling of Infectious Diseases
 * Computer Vision
     * Object Tracking
     * Human Action Classification
